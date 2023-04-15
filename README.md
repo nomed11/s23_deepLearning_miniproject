@@ -1,4 +1,4 @@
-# s23_deepLearning_miniproject
+# Spring 2023 Deep Learning Miniproject
 This is the submission of the ResNet model required for the mini project in ECE-GY 7123 Deep Learning for Spring 2023. This submission has been made by Kaustubh Mishra and Jayvardhan Singh.
 
 The following python packages are required:
@@ -9,7 +9,7 @@ The following python packages are required:
 - tqdm
 - multiprocessing
 
-Install them manually or use the following python command:  `! pip install torch torchsummary numpy tqdm multiprocessing`
+Install them manually or use the following python command:  `!pip install torch torchsummary numpy tqdm multiprocessing`
 
 ## Overview
 
